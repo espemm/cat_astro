@@ -14,6 +14,7 @@
 7. [`HashMap`](#7-hashmap)
 8. [Enumerados (`enum`)](#8-enumerados-enum)
 9. [Polimorfismo e `instanceof`](#9-polimorfismo-e-instanceof)
+10. [Diagrama](#10-DIAGRAMA-DE-CLASES)
 
 ---
 
