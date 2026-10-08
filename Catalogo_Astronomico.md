@@ -343,14 +343,7 @@ if (a instanceof Estrella) {
 
 ---
 
+## 10. DIAGRAMA DE CLASES
+
 ![Diagrama UML](./UML%20del%20Catálogo%20Astronómico.png)
 
-## Antes de entregar la práctica
-
-- Comprueba que siguen funcionando los tests anteriores.
-- Verifica que las colecciones y los contadores se actualizan al añadir y borrar.
-- Revisa el formato exacto de `toString()`.
-- Si falla un test, compara **resultado esperado** y **resultado obtenido** antes de modificar código.
-- Ejecuta los tests con `./gradlew test` o desde el entorno de desarrollo.
-
-> **Sugerencia de estudio:** responde las dos preguntas de cada ficha sin mirar la explicación y después prueba el ejemplo modificando algún dato.
